@@ -1,7 +1,7 @@
 # 🧪 Ursina Chemistry Lab Simulator
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Virtual+Lab;Explore+the+Impossible.;See+It.+Try+It.+Understand+It." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Virtual+Lab;Explore+the+Impossible.;See+It.+Try+It.+Understand+It." />
 </p>
 
 A 3D Chemistry Laboratory simulation built using the **Ursina Game Engine** and **MySQL authentication**. This project allows users to sign up, log in, and explore an interactive virtual chemistry laboratory with realistic lighting, sound effects, and laboratory equipment.
