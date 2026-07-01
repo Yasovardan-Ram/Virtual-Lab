@@ -7,6 +7,12 @@
 A 3D Chemistry Laboratory simulation built using the **Ursina Game Engine** and **MySQL authentication**. This project allows users to sign up, log in, and explore an interactive virtual chemistry laboratory with realistic lighting, sound effects, and laboratory equipment.
 
 ---
+## Images
+![Screenshot](assets/pic1.png)
+![Screenshot](assets/pic2.png)
+![Screenshot](assets/pic3.png)
+![Screenshot](assets/pic4.png)
+![Screenshot](assets/pic5.png)
 
 ## 📌 Features
 
