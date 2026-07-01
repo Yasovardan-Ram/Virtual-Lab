@@ -23,7 +23,8 @@ app = Ursina()
 db={
     'host':'localhost',
     'user':'root',
-    'password':'sql'
+    'password':'sql',
+    'use_pure':'True'
 }
 
 conn= cc.connect(**db)
